@@ -19,7 +19,7 @@ public class Zadanie1 {
 
         WebElement searchBar = driver.findElement(By.name("q"));
         searchBar.clear();
-        searchBar.sendKeys("Coderslab");
+        searchBar.sendKeys("Wielka Orkiestra Świątecznej Pomocy");
         searchBar.submit();
         driver.quit();
     }
