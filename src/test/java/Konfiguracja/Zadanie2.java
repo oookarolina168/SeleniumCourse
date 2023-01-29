@@ -15,6 +15,7 @@ public class Zadanie2 {
         driver.get("https://www.google.com");
         driver.get("https://mystore-testlab.coderslab.pl/index.php");
         driver.get("https://hotel-testlab.coderslab.pl/en/");
+        driver.quit();
 
     }
 }

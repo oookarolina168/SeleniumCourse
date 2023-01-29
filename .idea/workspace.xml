@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f429e2-a88f-48f2-a848-4520d7c72869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Wyszukiwanie_elementow/Zadanie01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Wyszukiwanie_elementow/Zadanie02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Wyszukiwanie_elementow/Zadanie03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Wyszukiwanie_elementow/Zadanie04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Wyszukiwanie_elementow/Zadanie05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Konfiguracja/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Konfiguracja/Zadanie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Konfiguracja/Zadanie2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Konfiguracja/Zadanie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Konfiguracja/Zadanie3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/CodersLab/SeleniumCourse"
   }
 }]]></component>
@@ -56,13 +64,13 @@
       <recent name="C:\CodersLab\SeleniumCourse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie3">
-    <configuration name="GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taskCheckConfig.GoogleSearch" />
+  <component name="RunManager" selected="Application.Zadanie03">
+    <configuration name="Wyszukiwanie_elemnetów.Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyszukiwanie_elemnetów.Zadanie1" />
       <module name="SeleniumCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taskCheckConfig.*" />
+          <option name="PATTERN" value="Wyszukiwanie_elemnetów.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskCheckConfig.GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskCheckConfig.GoogleSearch" />
+    <configuration name="Zadanie01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyszukiwanie_elementow.Zadanie01" />
       <module name="SeleniumCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaskCheckConfig.*" />
+          <option name="PATTERN" value="Wyszukiwanie_elementow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Konfiguracja.Zadanie1" />
+    <configuration name="Zadanie02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyszukiwane_elementow.Zadanie02" />
       <module name="SeleniumCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Konfiguracja.*" />
+          <option name="PATTERN" value="Wyszukiwane_elementow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Konfiguracja.Zadanie2" />
+    <configuration name="Zadanie03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyszukiwanie_elementow.Zadanie03" />
       <module name="SeleniumCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Konfiguracja.*" />
+          <option name="PATTERN" value="Wyszukiwanie_elementow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie03" />
+        <item itemvalue="Application.Zadanie02" />
+        <item itemvalue="Application.Zadanie01" />
+        <item itemvalue="Application.Wyszukiwanie_elemnetów.Zadanie1" />
         <item itemvalue="Application.Zadanie3" />
-        <item itemvalue="Application.Zadanie2" />
-        <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.TaskCheckConfig.GoogleSearch" />
-        <item itemvalue="Application.GoogleSearch" />
       </list>
     </recent_temporary>
   </component>
